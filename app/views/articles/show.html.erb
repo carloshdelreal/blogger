@@ -6,6 +6,7 @@
   <% end %>
 </p>
 <p><%= @article.body %></p>
+<p><%= image_tag @article.image.url, :class => "article-img" %></p>
 <%= link_to "<< Back to Articles List", articles_path %>
 <%= link_to "delete", article_path(@article), method: :delete ,data: {confirm: "Really delete the article?"}%>
 <%= link_to "edit", edit_article_path(@article) %>
