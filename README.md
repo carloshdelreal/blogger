@@ -1,24 +1,25 @@
-# README
+# Blogger Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is the first Ruby on Rails project that was created following the [Blogger 2](http://tutorials.jumpstartlab.com/projects/blogger.html) tutorial. a guide that introduces to the basics of the usage of Ruby on Rails in a Blog application.
 
-Things you may want to cover:
+In this project it was used:
 
-* Ruby version
+* Ruby
+* Ruby on Rails Framework
+* HTML
+* CSS
 
-* System dependencies
+### Deploy
 
-* Configuration
+* Heroku
 
-* Database creation
+# Author
 
-* Database initialization
+This project was created by:
 
-* How to run the test suite
+* Carlos Del Real [Github Account https://github.com/carloshdelreal](https://github.com/carloshdelreal)
 
-* Services (job queues, cache servers, search engines, etc.)
+# The Web App
 
-* Deployment instructions
+The live version of this project is on [Live version of Blogger](https://murmuring-plateau-19342.herokuapp.com/)
 
-* ...
